@@ -1,0 +1,6 @@
+module Pods_FuelRight {
+  umbrella header "Pods-FuelRight-umbrella.h"
+
+  export *
+  module * { export * }
+}
